@@ -25,10 +25,11 @@ This website is built with **HTML, CSS, and JavaScript** to showcase my skills, 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/514cea88-e169-441b-b25f-5a8141324284" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b6340baf-f629-4a7f-942d-d9ccee96bdbb" />
 ## 📬 Contact
-- LinkedIn: [Vikash Bharti](https://www.linkedin.com/in/your-linkedin-url)  
-- GitHub: [vikash-bharti](https://github.com/your-github-username)  
-- Email: your-email@example.com  
-- WhatsApp: [Click here to chat](https://wa.me/yourwhatsappnumber)  
 
+- LinkedIn: [Vikash Bharti](https://www.linkedin.com/in/vikash-kumar-bharti-44699b294/)  
+- GitHub: [vikash-bharti](https://github.com/VikashBharti0)  
+- Email: vikasharyan7739@gmail.com  
+- WhatsApp: [Click here to chat](https://wa.me/919508017940)  
+- X: [vikash-bharti](https://x.com/Vikash__Bharti)  
 ---
 ⭐ If you like this project, feel free to **star** this repo!
