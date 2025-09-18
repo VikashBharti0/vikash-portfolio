@@ -17,6 +17,8 @@ This website is built with **HTML, CSS, and JavaScript** to showcase my skills, 
 - **Data Storage:** SheetDB (Google Sheet/Excel as Database)
 - **Version Control:** Git & GitHub
 - **Deployment:** GitHub Pages
+  
+----- Live Project: (https://vikashbharti0.github.io/vikash-portfolio/)  
 
 ## 📸 Preview
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d7887c0e-4aba-4453-8223-c15a9082bad1" />
