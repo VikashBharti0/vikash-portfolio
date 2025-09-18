@@ -22,7 +22,7 @@ This website is built with **HTML, CSS, and JavaScript** to showcase my skills, 
 👉 [Live Demo]([https://your-github-username.github.io/vikash-portfolio/](https://vikashbharti0.github.io/vikash-portfolio/))  
 
 ![Portfolio Preview](screenshot.png) <!-- Add screenshot of your site -->
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d7887c0e-4aba-4453-8223-c15a9082bad1" />
 ## 📬 Contact
 - LinkedIn: [Vikash Bharti](https://www.linkedin.com/in/your-linkedin-url)  
 - GitHub: [vikash-bharti](https://github.com/your-github-username)  
