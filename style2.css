@@ -218,11 +218,16 @@ html, body {
   .navbar .logo { font-size: 18px; }
 
   .menu-icon {
-    font-size: 18px;
+    font-size: 15px;
     width: 36px;
     height: 36px;
   }
-
+  .btn-sci>a{
+    padding:  10px 6px;
+  }
+  #skillsCon>.main{
+    padding-left: 100px;
+  }
   .menu-icon .dropdown { min-width: 160px; right: 0; }
 
 
