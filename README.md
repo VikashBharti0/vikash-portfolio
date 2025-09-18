@@ -19,7 +19,7 @@ This website is built with **HTML, CSS, and JavaScript** to showcase my skills, 
 - **Deployment:** GitHub Pages
 
 ## 📸 Preview
-👉 [Live Demo](https://your-github-username.github.io/vikash-portfolio/)  
+👉 [Live Demo]([https://your-github-username.github.io/vikash-portfolio/](https://vikashbharti0.github.io/vikash-portfolio/))  
 
 ![Portfolio Preview](screenshot.png) <!-- Add screenshot of your site -->
 
